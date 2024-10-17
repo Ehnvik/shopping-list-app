@@ -1,0 +1,13 @@
+.env
+
+# Composer
+/vendor/
+/composer.lock
+/vendor/composer/autoload_*.php
+
+# Logs och cache
+/logs
+*.log
+/cache
+/sessions
+
